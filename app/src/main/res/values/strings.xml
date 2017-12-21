@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Medication</string>
+    <string name="action_settings">Settings</string>
+    <string name="SID">SID</string>
+    <string name="Hint_ID">e.g. 7, 15, 102</string>
+    <string name="DName_label">Doctor Name</string>
+    <string name="DName_hint">e.g dr. RM pasha</string>
+    <string name="M_add">ADD your medicine instruction</string>
+    <string name="MN_Label">Medicine name</string>
+    <string name="MN_hint">Medicine name here</string>
+    <string name="Days_choose">Choose a day</string>
+    <string-array name="Days">
+        <item>choose days</item>
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+        <item>6 days</item>
+        <item>7 days</item>
+        <item>8 days</item>
+        <item>9 days</item>
+        <item>10 days</item>
+        <item>11 days</item>
+        <item>12 days</item>
+        <item>13 days</item>
+        <item>14 days</item>
+        <item>15 days</item>
+        <item>16 days</item>
+        <item>17 days</item>
+        <item>18 days</item>
+        <item>19 days</item>
+        <item>20 days</item>
+        <item>21 days</item>
+        <item>22 days</item>
+        <item>23 days</item>
+        <item>24 days</item>
+        <item>25 days</item>
+        <item>26 days</item>
+        <item>27 days</item>
+        <item>28 days</item>
+        <item>29 days</item>
+        <item>30 days</item>
+        <item>31 days</item>
+    </string-array>
+    <string name="Tablet_CB"> Tablet</string>
+    <string name="Spoon_CB">Spoon</string>
+    <string name="Else_CB">Else</string>
+    <string name="MD_Quantity_M">1-tablet/1-spoon</string>
+    <string name="Q_label_M">Quantity:</string>
+    <string name="Morning_CB">Morning</string>
+
+
+    <string name="MD_Quantity_AN">1-tablet/1-spoon</string>
+    <string name="Q_label_AN">Quantity:</string>
+    <string name="AN_CB">Afternoon</string>
+
+    <string name="MD_Quantity_Night"> e.g. 1 tablet/spoon</string>
+    <string name="Q_label_Night">Quantity:</string>
+    <string name="Night_CB">Night</string>
+
+    <string name="commentBox">Comment box</string>
+
+    <string name="SC_Optional">Do you want to secure it?</string>
+    <string name="SC">e.g abc@1</string>
+
+    <string name="Add_label">click to add more medicine</string>
+    <string name="Medicine_no">M.0</string>
+
+
+    <string name="SM_label">Session management</string>
+
+    <string name="SID_Status">Status</string>
+    <string name="Medicine_No">Medicine</string>
+    <string name="S_Doctor">Doctor Name</string>
+    <string name="S_Editable">Edit</string>
+
+    <string name="DBDATA"></string>
+    <string name="dismiss">Dismiss</string>
+    <string name="taken">Taken</string>
+    <string name="title_activity_demo">DemoActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
